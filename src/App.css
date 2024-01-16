@@ -1,0 +1,8 @@
+.navbar
+{
+  max-Width: '1200px'; 
+  margin: '0 60px';
+  display: 'flex'; 
+  align-Items: 'center'; 
+  justify-content: 'space-between' 
+}
