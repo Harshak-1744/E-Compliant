@@ -5,6 +5,7 @@ const Navbar = () => {
   return (
     <nav>
       <div className = 'navbar'>
+        <h1>This is the navbar Component</h1>
         <Link to="/"><img src={logo} alt="Logo" style={{ height: '124px' }} className='logo' /></Link>
       <ul>
         <li>
